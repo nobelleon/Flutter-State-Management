@@ -2,7 +2,9 @@
 
 ![1](https://github.com/user-attachments/assets/1583f0da-1607-469b-8b43-90db406a16d6) ![2](https://github.com/user-attachments/assets/136eef0e-3ab8-4479-8992-529331d33052)
 
+---
 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nobelleon) 
 
 A new Flutter project.        
 
